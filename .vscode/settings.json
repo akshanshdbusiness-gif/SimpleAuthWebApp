@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/68a3367b-8290-4c63-9853-a1eab5cca553/resourceGroups/testrg/providers/Microsoft.Web/sites/SimpleAuthWebApp"
+}
